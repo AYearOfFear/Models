@@ -1,0 +1,12 @@
+Blender Shortcuts
+
+SHIFT-S : Center Cursor / Object
+CONTROL-N : Correct Normals in Edit Mode
+CONTROL-J : Join Objects into Single Object
+ALT-LMB : If Middle Mouse is Simulated Rotate Scene
+A : Select All or Deselect All
+TAB : Switch Between Edit Mode and Object Mode
+M : Move to Another Layer (In Object Mode)
+M : Mirror Object (In Edit Mode)
+SHIFT-A : Add Object
+SHIFT-D : Duplicate Selected Object
